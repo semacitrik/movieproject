@@ -2,6 +2,6 @@
 
 First project.
 
-Coded with HTML and CSS.
+Coded with HTML, CSS and JS.
 
 ![](movie.gif)
